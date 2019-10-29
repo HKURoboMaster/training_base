@@ -117,6 +117,7 @@ First, checkout to master and pull.
 
 `git checkout master`
 `git pull`
+`git checkout -i raising`
 
 Secondly, use git rebase.
 
